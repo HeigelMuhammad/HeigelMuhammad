@@ -1,20 +1,18 @@
-# Hi, saya Heigel Muhammad Wildan 👋
+# 💫 About Me:
+Saya adalah lulusan D3 Teknik Informatika Universitas Sebelas Maret (IPK 3,84) yang berfokus pada Full Stack Web Development. Saya terbiasa membangun aplikasi web dari tahap perancangan kebutuhan (SRS), implementasi frontend dan backend, hingga deployment dan maintenance.<br><br>Selain web, saya menikmati proyek yang menghubungkan software dengan dunia nyata: machine learning untuk skrining kesehatan dan Internet of Things untuk pertanian dan akuaponik. Saya senang belajar hal baru, bekerja dalam tim, dan menyelesaikan masalah lewat kode yang rapi.
 
-Lulusan D3 Teknik Informatika Universitas Sebelas Maret (IPK 3,84) yang berfokus pada Full Stack Web Development. Saya tertarik membangun aplikasi web dan sistem berbasis data, termasuk IoT dan machine learning.
 
-## Tech Stack
-- **Bahasa:** PHP, JavaScript, Python
-- **Framework:** Laravel, Next.js, React, Express.js, Flask
-- **Database:** MySQL
-- **Tools:** Git, Docker, Postman, Figma
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heigel.muhammad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Heigel Muhammad Wildan) 
 
-## Proyek Unggulan
-- **TBCheck**: platform skrining TBC berbasis suara batuk (CNN, DenseNet)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HeigelMuhammad&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HeigelMuhammad&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HeigelMuhammad&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## Pengalaman
-- Full Stack Web Developer (Magang), PT. Garapan Indonesia Sukses
-- Asisten Dosen Praktik Internet of Things, UNS
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HeigelMuhammad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Kontak
-- LinkedIn: [link]
-- Email: [email]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
