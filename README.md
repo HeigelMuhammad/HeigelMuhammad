@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, saya Heigel Muhammad Wildan 👋
 
-<!--
-**HeigelMuhammad/HeigelMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lulusan D3 Teknik Informatika Universitas Sebelas Maret (IPK 3,84) yang berfokus pada Full Stack Web Development. Saya tertarik membangun aplikasi web dan sistem berbasis data, termasuk IoT dan machine learning.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Bahasa:** PHP, JavaScript, Python
+- **Framework:** Laravel, Next.js, React, Express.js, Flask
+- **Database:** MySQL
+- **Tools:** Git, Docker, Postman, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek Unggulan
+- **TBCheck**: platform skrining TBC berbasis suara batuk (CNN, DenseNet)
+
+## Pengalaman
+- Full Stack Web Developer (Magang), PT. Garapan Indonesia Sukses
+- Asisten Dosen Praktik Internet of Things, UNS
+
+## Kontak
+- LinkedIn: [link]
+- Email: [email]
